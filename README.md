@@ -1,4 +1,4 @@
-![ryvyn young](https://user-images.githubusercontent.com/68249293/97366419-4c94ea00-1875-11eb-8624-8932474de56a.jpg)
+![ryvyn young](https://pin.it/6z0xWKY)
 
 ## *Portfolios*
 [Github](https://RyvynYoung.github.io) | [Tableau](https://public.tableau.com/profile/ryvyn.young#!/?newProfile=&activeTab=0)
