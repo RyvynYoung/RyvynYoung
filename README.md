@@ -1,6 +1,5 @@
-<a href="https://i.pinimg.com/originals/53/a1/fc/53a1fc5d6092049780a15d3eabb6935a.png">
-    <img align="left" src="https://i.pinimg.com/originals/53/a1/fc/53a1fc5d6092049780a15d3eabb6935a.png>
-  </a>
+
+<img width="449" alt="Screen Shot 2020-10-23 at 1 29 10 PM" src="https://i.pinimg.com/originals/53/a1/fc/53a1fc5d6092049780a15d3eabb6935a.png">
 
 
 ## *Portfolios*
